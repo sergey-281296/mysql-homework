@@ -88,3 +88,8 @@ SHOW TABLES;
 
 ## SQL запросы
 Все выполненные SQL запросы находятся в файле: [scripts/all_queries.sql](scripts/all_queries.sql)
+
+## ER-диаграмма базы данных sakila
+
+### Полная схема связей между таблицами
+![ER-диаграмма базы sakila](er_diagram.png)
