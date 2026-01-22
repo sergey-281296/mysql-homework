@@ -24,7 +24,7 @@ FLUSH PRIVILEGES;
 
 1.5. Права пользователя sys_temp
 
-https://screenshots/1.5_grants.png
+![Права пользователя](screenshots/1.5_grants.png)
 
 1.6. Переподключение к базе данных от имени sys_temp
 mysql -u sys_temp -ptemp_password
