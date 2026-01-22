@@ -10,7 +10,7 @@
 Установлен MySQL 8.0.44 в WSL Ubuntu 24.04
 
 ### 1.2. Создание учётной записи sys_temp
-```sql
+sql
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'temp_password';
 
 1.3. Список пользователей в базе данных
